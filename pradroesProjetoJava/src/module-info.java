@@ -5,5 +5,5 @@
  * @author eduar
  *
  */
-module padroesProjetoJava {
+module pradroesProjetoJava {
 }
