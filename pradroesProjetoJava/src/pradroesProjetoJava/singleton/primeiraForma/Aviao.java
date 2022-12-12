@@ -25,7 +25,7 @@ public class Aviao {
 		return INSTANCE;
 	}
 	
-	public boolean listaAssentosDisponiveis(String assento) {
+	public boolean adquiriAssento(String assento) {
 		return assentosDisponiveis.remove(assento);
 	}
 	

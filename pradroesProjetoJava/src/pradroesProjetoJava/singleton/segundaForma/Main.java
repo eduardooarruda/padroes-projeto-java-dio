@@ -12,6 +12,6 @@ public class Main {
 	
 	private static void agendarAssento(String assento) {
 		Aviao a = Aviao.getInstance();
-		System.out.println(a.listaAssentosDisponiveis(assento));
+		System.out.println(a.adquirirAssento(assento));
 	}
 }
