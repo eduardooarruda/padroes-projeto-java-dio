@@ -1,9 +1,9 @@
 package pradroesProjetoJava.strategy.dio;
 
-import pradroesProjetoJava.strategy.dio.Robo.Robo;
-import pradroesProjetoJava.strategy.dio.comportamento.ComportamentoMoverDireita;
-import pradroesProjetoJava.strategy.dio.comportamento.ComportamentoMoverEsquerda;
-import pradroesProjetoJava.strategy.dio.comportamento.intefarce.Comportamento;
+import pradroesProjetoJava.strategy.dio.comportamentos.ComportamentoMoverDireita;
+import pradroesProjetoJava.strategy.dio.comportamentos.ComportamentoMoverEsquerda;
+import pradroesProjetoJava.strategy.dio.comportamentos.interfaces.Comportamento;
+import pradroesProjetoJava.strategy.dio.robo.Robo;
 
 public class Main {
 

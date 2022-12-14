@@ -1,6 +1,6 @@
-package pradroesProjetoJava.strategy.dio.Robo;
+package pradroesProjetoJava.strategy.dio.robo;
 
-import pradroesProjetoJava.strategy.dio.comportamento.intefarce.Comportamento;
+import pradroesProjetoJava.strategy.dio.comportamentos.interfaces.Comportamento;
 
 public class Robo {
 

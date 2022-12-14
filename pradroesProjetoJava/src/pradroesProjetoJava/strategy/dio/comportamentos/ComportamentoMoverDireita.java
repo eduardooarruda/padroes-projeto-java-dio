@@ -1,6 +1,6 @@
-package pradroesProjetoJava.strategy.dio.comportamento;
+package pradroesProjetoJava.strategy.dio.comportamentos;
 
-import pradroesProjetoJava.strategy.dio.comportamento.intefarce.Comportamento;
+import pradroesProjetoJava.strategy.dio.comportamentos.interfaces.Comportamento;
 
 public class ComportamentoMoverDireita implements Comportamento{
 
