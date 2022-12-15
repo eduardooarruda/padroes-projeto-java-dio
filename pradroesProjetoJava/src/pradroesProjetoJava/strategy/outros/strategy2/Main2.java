@@ -7,12 +7,12 @@ package pradroesProjetoJava.strategy.outros.strategy2;
 import pradroesProjetoJava.strategy.outros.strategy2.comportamentos2.ComportamentoMoverDireita2;
 import pradroesProjetoJava.strategy.outros.strategy2.comportamentos2.ComportamentoMoverEsquerda2;
 import pradroesProjetoJava.strategy.outros.strategy2.comportamentos2.interfaces2.Comportamento2;
-import pradroesProjetoJava.strategy.outros.strategy2.robo2.Robo;
+import pradroesProjetoJava.strategy.outros.strategy2.robo2.Robo2;
 
 public class Main2 {
 
 	public static void main(String[] args) {
-		Robo robo = new Robo("WALL-E");
+		Robo2 robo = new Robo2("WALL-E");
 		Comportamento2 moverDireita = new ComportamentoMoverDireita2();
 		Comportamento2 moverEsquerda = new ComportamentoMoverEsquerda2();
 		
